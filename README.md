@@ -28,8 +28,8 @@ To run this project locally on your machine:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/ajmal-uk/incepta-2026.git
-    cd incepta-2026
+    git clone https://github.com/ajmal-uk/incepta.git
+    cd incepta
     ```
 
 2.  **Install dependencies**:
@@ -55,7 +55,7 @@ This command builds the project (creating a `dist` folder) and pushes it to the 
 
 ## 🔗 Live Website
 
-Visit the live site here: **[https://ajmal-uk.github.io/incepta-2026](https://ajmal-uk.github.io/incepta-2026)**
+Visit the live site here: **[https://ajmal-uk.github.io/incepta](https://ajmal-uk.github.io/incepta)**
 
 ---
 *Designed with ♥ by the ASCA Tech Team*
